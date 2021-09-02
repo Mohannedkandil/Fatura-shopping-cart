@@ -1,2 +1,3 @@
 # Fatura-shopping-cart
-![84589158-10fd0480-ae2d-11ea-972d-3800f5fa2753](https://media.giphy.com/media/hXt4FIg2YITrPtZHqH/giphy.gif?cid=790b761196f9ff80e8a6cc8517d9ce60b438a70b751141be&rid=giphy.gif&ct=g)
+![84589158-10fd0480-ae2d-11ea-972d-3800f5fa2753](https://user-images.githubusercontent.com/18647990/131922861-f33596e0-d6b8-4df8-8ce6-583970147871.png)
+<h2 align="center">Fatura Shopping Cart using MEVN - MongoDB, Express, Vue.js, & Nodejs</h2>
