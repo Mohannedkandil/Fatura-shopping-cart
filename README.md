@@ -6,11 +6,14 @@
 ## Table of Contents
 
 - [About the Project](#about-the-project)
-  - [Build with](#build-with)
+  - [Built with](#build-with)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Running](#running)
 - [Screenshots](#screenshots)
+- [UI](#ui)
+- [Leftouts](#leftouts)
+- [Lessons Learned](#lessons-learned)
 - [File Structure](#file-structure)
 - [License](#license)
 
@@ -62,6 +65,32 @@ $ nodemon index.js
 ![home4](https://user-images.githubusercontent.com/18647990/132264178-453d4689-7a7b-4184-90bd-7db4b3531ff6.PNG)
 
 </div>
+
+
+## UI
+I have started to design interface of the website using Figma as a future design for the website. Currently, I'm redesigning the UI with UX for a more enhanced solution
+
+![figma](https://user-images.githubusercontent.com/18647990/132265955-e6f9694f-90e5-4ea8-ad9a-cf3cc5811ac5.png)
+
+## Leftouts
+- To start use **vuex** for the state managment, it will be ready for a large scale of users.
+- Make a **coupons** component for generating coupons for users with various numbers/percentages
+- Authentication, authorization (I'm working on it now) with 2 roles, admin(**seller**) and user(**buyer**)
+
+
+## Lessons Learned
+When I reieved the task, I started to learn Nodejs. 
+I have learned the following from various resources:      
+- Node Module System 
+- Node Package Manager
+- Express basic apps
+- Building RESTful API's using Express
+- Express Advacned Concepts
+- CRUD operations using MONGODB
+
+
+
+
 
 ## File Structure
                                     
