@@ -79,14 +79,17 @@ I have started to design interface of the website using Figma as a future design
 
 
 ## Lessons Learned
-When I reieved the task, I started to learn Nodejs. 
-I have learned the following from various resources:      
+When I reieved the task, I was not familiar with Nodejs. So I started to learn the basics of Nodejs and some practice with simple applications. Then, I did a quick warm up on VUE js (Vue CLI, Vue router basics, forms and data binding, fetching data, async code, routing) 
+
+I have learned the following from various resources (Nodejs):      
 - Node Module System 
 - Node Package Manager
 - Express basic apps
 - Building RESTful API's using Express
-- Express Advacned Concepts
+- Express Advacned Topics (Middleware, creating custom Middleware, third-party Middleware, configuration, debuging, Templating Engines, Database Integration)
 - CRUD operations using MONGODB
+- Mongo - Data Validation
+- Authentication, authorization, and Unit Testing (working on it now)
 
 
 
@@ -94,7 +97,7 @@ I have learned the following from various resources:
 
 ## File Structure
                                     
-    Instafolio
+    Fatura-shopping-cart
     ├── README.md
     ├── LICENSE
     ├── node_modules
