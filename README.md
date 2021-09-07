@@ -74,12 +74,12 @@ I have started to design interface of the website using Figma as a future design
 
 ## Leftouts
 - To start use **vuex** for the state managment, it will be ready for a large scale of users.
-- Make a **coupons** component for generating coupons for users with various numbers/percentages
-- Authentication, authorization (I'm working on it now) with 2 roles, admin(**seller**) and user(**buyer**)
+- Make a **coupon** component for generating coupons for users with various numbers/percentages.
+- Authentication, authorization (I'm working on it now) with 2 roles, admin(**seller**) and user(**buyer**).
 
 
 ## Lessons Learned
-When I reieved the task, I was not familiar with Nodejs. So I started to learn the basics of Nodejs and some practice with simple applications. Then, I did a quick warm up on VUE js (Vue CLI, Vue router basics, forms and data binding, fetching data, async code, routing) 
+When I received the task, I was not familiar with Nodejs. So I started to learn the basics of Nodejs and some practice with simple applications. Then, I did a quick warm up on VUE js (Vue CLI, Vue router basics, forms and data binding, fetching data, async code, routing) 
 
 I have learned the following from various resources (Nodejs):      
 - Node Module System 
