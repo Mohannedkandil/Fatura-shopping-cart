@@ -73,13 +73,16 @@ I have started to design interface of the website using Figma as a future design
 ![figma](https://user-images.githubusercontent.com/18647990/132265955-e6f9694f-90e5-4ea8-ad9a-cf3cc5811ac5.png)
 
 ## Leftouts
-- To start use **vuex** for the state managment, it will be ready for a large scale of users.
+- To start use **vuex** for the state managment, it will be ready for a large scale of users. It will enhance the flow of the code and the real time data from the DB.
 - Make a **coupon** component for generating coupons for users with various numbers/percentages.
 - Authentication, authorization (I'm working on it now) with 2 roles, admin(**seller**) and user(**buyer**).
-
+- Drag and drop style components, which will allow the **seller** to style his/her produccts in multiple ways based on the seller preferences
 
 ## Lessons Learned
-When I received the task, I was not familiar with Nodejs. So I started to learn the basics of Nodejs and some practice with simple applications. Then, I did a quick warm up on VUE js (Vue CLI, Vue router basics, forms and data binding, fetching data, async code, routing) 
+When I received the task, I was not familiar with Nodejs. So I started to learn the basics of Nodejs and some practice with simple applications. Then, I did a quick warm up on VUE js (Vue CLI, Vue router basics, forms and data binding, fetching data, async code, routing). 
+
+Moreover, I set a challenge to learn Vuetify instead of using 
+BootstrapVue (I worked with it before). It was a great challenge for me to start with something I never worked with it before. Just I learned the bascis + some some simple applications, then I started grinding on the main app.
 
 I have learned the following from various resources (Nodejs):      
 - Node Module System 
