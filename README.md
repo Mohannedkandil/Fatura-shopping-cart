@@ -20,7 +20,7 @@
 ## About The Project
 > **Fatura-shopping-cart** is a simple shopping cart for **Fatura** Fullstack technical task.
 
-### Build with
+### Built with
 - [Vue.js](https://vuejs.org/)
 - [mongoDB](https://www.mongodb.com/)
 - [Nodejs](https://nodejs.org/en/)
